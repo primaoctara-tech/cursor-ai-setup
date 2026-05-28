@@ -22,4 +22,4 @@
 - Solved by restarting Cursor IDE
 
 ## Repository Link
-([Add your repository URL here](https://github.com/primaoctara-tech/cursor-ai-setup.git))
+(https://github.com/primaoctara-tech/cursor-ai-setup.git)
