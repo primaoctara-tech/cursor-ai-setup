@@ -17,8 +17,8 @@
 8. Pushed project to GitHub
 
 ## Issues Encountered:
-- Had difficulty logging into extension
-- Solved by restarting Cursor IDE
+- Had difficulty adding the Claude Code & Codex add-on to the cursor through the extension 
+- I am still not familiar with the cursor and GitHub tools, but through effort in researching and practical application, I found it went well. 
 
 ## Repository Link
 (https://github.com/primaoctara-tech/cursor-ai-setup.git)
