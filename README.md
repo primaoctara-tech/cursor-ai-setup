@@ -16,8 +16,7 @@
 7. Created README.md
 8. Pushed project to GitHub
 
-## Issues Encountered
-### Example:
+## Issues Encountered:
 - Had difficulty logging into extension
 - Solved by restarting Cursor IDE
 
