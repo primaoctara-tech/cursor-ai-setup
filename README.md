@@ -18,7 +18,8 @@
 
 ## Issues Encountered:
 - Had difficulty adding the Claude Code & Codex add-on to the cursor through the extension 
-- I am still not familiar with the cursor and GitHub tools, but through effort in researching and practical application, I found it went well. 
+- I am still not familiar with the cursor and GitHub tools, but through effort in researching and practical application, I found it went well.
+- Git cannot be installed on the Mac Terminal
 
 ## Repository Link
 (https://github.com/primaoctara-tech/cursor-ai-setup.git)
